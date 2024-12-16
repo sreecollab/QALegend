@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-16T01:27:20 IST" name="Default suite" finished-at="2024-12-16T01:27:39 IST" duration-ms="19277">
+    <groups>
+    </groups>
+    <test started-at="2024-12-16T01:27:20 IST" name="Default test" finished-at="2024-12-16T01:27:39 IST" duration-ms="19277">
+      <class name="Testscript.QALgendDEleteEstimate">
+        <test-method is-config="true" signature="browserintialistaion(java.lang.String)[pri:0, instance:Testscript.QALgendDEleteEstimate@2d901eb0]" started-at="2024-12-16T01:27:20 IST" name="browserintialistaion" finished-at="2024-12-16T01:27:25 IST" duration-ms="5137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserintialistaion -->
+        <test-method signature="AddEstimate()[pri:0, instance:Testscript.QALgendDEleteEstimate@2d901eb0]" started-at="2024-12-16T01:27:25 IST" name="AddEstimate" finished-at="2024-12-16T01:27:39 IST" duration-ms="14036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEstimate -->
+      </class> <!-- Testscript.QALgendDEleteEstimate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
